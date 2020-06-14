@@ -1,4 +1,4 @@
 # MongoMapReduce
  
-Data file contains movie dataset.
-Functions contains JavaScript functions for MapReduce.
+Data file contains movie dataset.<br>
+Functions contains JavaScript functions for MapReduce.<br>
